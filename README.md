@@ -1,4 +1,7 @@
 # SleepAssist
 
-Sounds (Calm music, ASMR?, )
-Schedule
+Sounds (Calm music, ASMR?, custom)
+
+Schedule+Reminders
+
+Sleep Tracker
